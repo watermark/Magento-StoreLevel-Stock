@@ -1,0 +1,8 @@
+{
+	"name": "careysizer/magento_storelevel_stock",
+	"type": "magento-module",
+	"description": "Lets you set the inventory settings in the backend on a store level or website level (not global!) basis.",
+	"require": {
+		"magento-hackathon/magento-composer-installer": "3.*"
+	}
+}
