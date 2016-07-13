@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Jcarey_Stock>
+			<active>true</active>
+			<codePool>community</codePool>
+		</Jcarey_Stock>
+	</modules>
+</config>
