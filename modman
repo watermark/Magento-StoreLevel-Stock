@@ -1,2 +1,3 @@
 #magento_storelevel_stock
 app/code/community/Jcarey/Stock app/code/community/Jcarey/Stock
+app/etc/modules/Jcarey_Stock.xml app/etc/modules/Jcarey_Stock.xml
